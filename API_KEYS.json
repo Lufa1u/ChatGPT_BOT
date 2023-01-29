@@ -1,0 +1,7 @@
+{
+    "KEYS":
+        {
+            "OPEN_AI": "paste your OPENAI_API_KEY",
+            "TELEGRAM": "paste your TELEGRAM_API_KEY"
+        }
+}
