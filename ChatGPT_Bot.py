@@ -2,7 +2,7 @@ import openai
 import telebot
 import json
 
-PATH = 'X:\projects\ChatGPT_Bot\API_KEYS.json'
+PATH = 'paste your path to API_KEYS.json file'
 
 with open(PATH, 'r') as f:
     data = json.loads(f.read())
